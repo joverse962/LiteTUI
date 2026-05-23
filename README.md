@@ -36,7 +36,7 @@ This lightweight terminal user interface (TUI) is strictly optimized for the **[
       <p>Upon powering up the CoreS3 SE, the system initiates the neon-styled retro TUI. Designed for high-visibility in field operations, the interface carries zero bloat. Tap <b>START VISUALIZING</b> to initialize the radio and memory allocation.</p>
     </td>
     <td width="35%" align="center" valign="middle">
-      <img src="https://github.com/joverse962/Images/blob/main/IMG_7949.jpg" alt="Welcome Screen" width="100%">
+      <img src="https://github.com/joverse962/Images/blob/main/LiteTUI/IMG_7949.jpg" alt="Welcome Screen" width="100%">
     </td>
   </tr>
 </table>
